@@ -1,0 +1,10 @@
+{
+  "nama" : "Emillia",
+  "kelas" : "12 RPL 2",
+  "semester" : 5,
+  "Hobby" : ["masak","makan"],
+  "Mapel" : {
+         "kk2" : "database",
+         "kk4" : "mobile dan web "
+  }
+}
