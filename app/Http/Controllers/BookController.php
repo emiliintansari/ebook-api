@@ -77,7 +77,7 @@ class BookController extends Controller
         else{
             return response()->json([
                 'status' => 404,
-                'message' => 'id "' . $id .'"tidak di temukan'
+                'message' => 'id ' . $id . ' tidak di temukan'
             ],404);
         }
     }
